@@ -28,6 +28,6 @@ deploy:
     secure: RuJNnkUehcfh7x/rXlltDX5FzW4Kb2p7s0dfIKPZGKkYb8SKqFh2FLKASoDosq7dVH4qr2gj0EYeTcw9Y+h6KlQonycEC9BNI/2kxgeRvIriNqryc+zFZVUQ03AzZaIMtYKQgDaCy4DFuY1oQI3kQGUTKG2C0Emhi9Kb8C9NmHBYk1Op+yJ6Uh73Zb/+z5/mZhzEfGAoY2KYqJ88zIPbrWUoo7vImZBYXLiuB/KZrG12hp1u+ccECkVwQgiHqwSRGooRYSk/dHKw/3DgMI3Dt+7TT7Oip38MMbef4Jrl0e60Tcf6RkYz5XEr9raYr+XF8ohI+gkxd2vE90AEdcrfdnCjEA5yIG5MRD6fWY3LJz3a09DOjB9Djentid0un524nBFKL+j09Hc9QHXlSOe4CefGq5eVMJQ9IJm4Emdw3y97V4FANFe6t9sjfFAIgK5p3Rokk8MT3vR8p2QJU2rz5IbBup9M0EUDFiw3et4joGxhMzfkPVWAe/y+8GU17x68gpXDlzFPaBrudiYFwX4552Bfi15SyE54U1yJpQqv44+qmcoDM+BHWIo2NeDFK9RRxkv1jNRUXvePzn20eXuLXGPKz4PJdyaYc6wB72ig0i55OMvkYR4xOenOUWPgX1gR4NLBycbB9XS8blrQF/abtGs8lgCGjnkthyBVyv9/4wQ=
   file: build/ios/iphoneos/app.ipa
   skip_cleanup: true
-  draft: true
+  #draft: true
   on:
     repo: DaanMoura/Flutter-UnitConverter
