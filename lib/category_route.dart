@@ -60,6 +60,7 @@ class CategoryRoute extends StatelessWidget {
     // TODO: Create a list view of the Categories
     final listView = ListView(
       children: categoryList,
+      padding: EdgeInsets.symmetric(horizontal: 8.0),
     );
 
     // TODO: Create an App Bar
